@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/dkhoa2906/github-stats">
+<img src="https://github.com/dkhoa2906/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/dkhoa2906/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/dkhoa2906/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/dkhoa2906/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
 
 ![](https://raw.githubusercontent.com/dkhoa2906/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/dkhoa2906/github-stats/master/generated/overview.svg#gh-light-mode-only)
